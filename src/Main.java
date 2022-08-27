@@ -35,7 +35,7 @@ public class Main {
         }
         System.out.println();
         //================ThirdTask================
-        System.out.println("================ThirdTask================");
+        System.out.println("================ThirdTask=================");
 
         for (int i = 2; i > -1; i--) {
             if (i != 2) System.out.print(", ");
